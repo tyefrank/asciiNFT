@@ -1,0 +1,44 @@
+body{
+    background-color: #000000;
+}
+
+.text{
+    color: #39ff14;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.menuItem{
+    cursor: pointer;
+}
+
+.menuItem:hover{
+    font-size: 30px;
+    color: rgb(238, 255, 0);
+}
+
+#titleMenu{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+    margin: auto 10px;
+}
+
+.asciiArt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+    
+}
+.centerMain{
+    width: 500px;
+  margin: auto;
+}
